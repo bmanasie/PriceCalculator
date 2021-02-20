@@ -1,0 +1,24 @@
+[
+  {
+    "product-type": "hoodie",
+    "options": {
+      "colour": ["black"],
+      "size": ["large", "xl"]
+    },
+    "base-price": 4000
+  },
+  {
+    "product-type": "hoodie",
+    "options": {
+      "size": ["medium","small"],
+      "colour": ["white"]
+    },
+    "base-price": 3800
+  },
+  {
+    "product-type": "leggings",
+    "options": {
+    },
+    "base-price": 1220
+  }
+]
