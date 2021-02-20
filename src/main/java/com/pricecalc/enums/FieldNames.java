@@ -1,10 +1,10 @@
-package com.redbubble;
+package com.redbubble.enums;
 
 public enum FieldNames {
 
     BASEPRICE("base-price"),
     QUANTITY("quantity"),
-    OPTIONS("options") ,
+    OPTIONS("options"),
     ARTIST("artist-markup"),
     PRODUCT("product-type");
 
